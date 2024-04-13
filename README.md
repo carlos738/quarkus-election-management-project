@@ -1,6 +1,20 @@
 # quarkus-election-management-project
 
+
 #FERRAMENTAS USADAS DURANTE O PROJETO:
+
+
+#BANCO DE DADOS MARIA DB
+
+MariaDB é baseado no MySQL e está disponível sob os termos da licença GPL v2.
+
+É desenvolvido pela Comunidade MariaDB com o principal administrador a Monty Program Ab.
+
+MariaDB é mantido atualizado com a última versão do MySQL.
+
+Na maioria dos aspectos o MariaDB vai funcionar exatamente como o MySQL: todos os comandos, interfaces, bibliotecas e APIs que existem no MySQL também existem no MariaDB. Não há nenhuma necessidade de converter um bancos de dados para migrar para o MariaDB. MariaDB é um verdadeiro substituto para o MySQL! Além disso, o MariaDB tem um monte de novas funcionalidades agradáveis ​​que você pode aproveitar.
+
+
 
 #DOCKER
 
